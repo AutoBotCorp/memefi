@@ -1,0 +1,14 @@
+[
+    {
+        "session_name": "hafummo",
+        "user_agent": "Mozilla/5.0 (Linux; Android 11.0; LM-G820) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.164 Mobile Safari/537.36"
+    },
+    {
+        "session_name": "hafuwit",
+        "user_agent": "Mozilla/5.0 (Linux; Android 9.0; SM-G973U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.5790.136 Mobile Safari/537.36"
+    },
+    {
+        "session_name": "adh_phoenixta",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10.0; NE2210) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.106 Mobile Safari/537.36"
+    }
+]
