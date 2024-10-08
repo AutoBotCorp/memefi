@@ -8,7 +8,7 @@ class Settings(BaseSettings):
     API_HASH: str
 
     MIN_AVAILABLE_ENERGY: int = 300
-    SLEEP_BY_MIN_ENERGY: int = 314
+    SLEEP_BY_MIN_ENERGY: int = 300
 
     ADD_TAPS_ON_TURBO: list[int] = [1300, 2250]
 
@@ -24,8 +24,8 @@ class Settings(BaseSettings):
     APPLY_DAILY_ENERGY: bool = True
     APPLY_DAILY_TURBO: bool = True
 
-    RANDOM_TAPS_COUNT: list[int] = [7, 31]
-    SLEEP_BETWEEN_TAP: list[int] = [19, 36]
+    RANDOM_TAPS_COUNT: list[int] = [20, 30]
+    SLEEP_BETWEEN_TAP: list[int] = [10, 15]
 
     #AUTO_GENERATE_USER_AGENT_FOR_EACH_SESSION: bool = True
 
